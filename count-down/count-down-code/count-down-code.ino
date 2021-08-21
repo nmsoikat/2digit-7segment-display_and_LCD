@@ -87,5 +87,3 @@ void loop() {
     }
 }
 
-
-// Group-C
